@@ -11,5 +11,4 @@ const ConditionRendering =()=>{
         </>
     );
 }
-
 export default ConditionRendering;
